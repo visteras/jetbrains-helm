@@ -1,0 +1,47 @@
+apiVersion: v1
+entries:
+  hub:
+  - apiVersion: v2
+    appVersion: 2021.1.13262
+    created: "2021-06-05T15:08:51.6229407+03:00"
+    description: A Helm chart for Kubernetes with Hub from JetBrains
+    digest: 176d1749d30c6fd625ac0be461713d216146e4012ee5f8484364302f3376617b
+    name: hub
+    type: application
+    urls:
+    - https://github.com/visteras/jetbrains-helm/releases/download/v.0.1.0/hub-0.1.0.tgz
+    version: 0.1.0
+  teamcity-server:
+  - apiVersion: v2
+    appVersion: "2021.1"
+    created: "2021-06-05T15:08:51.6239396+03:00"
+    description: A Helm chart for Kubernetes with TeamCity server from JetBrains
+    digest: e3f224981427e01f0bc340d97b00d9c3a6c697a35d962c9ad461cab0f7a4107d
+    name: teamcity-server
+    type: application
+    urls:
+    - https://github.com/visteras/jetbrains-helm/releases/download/v.0.1.0/teamcity-server-0.1.0.tgz
+    version: 0.1.0
+  upsource:
+  - apiVersion: v2
+    appVersion: 2020.1.1883
+    created: "2021-06-05T15:08:51.624936+03:00"
+    description: A Helm chart for Kubernetes with UpSource from JetBrains
+    digest: e2aefcc263f16a4aae531e68d9e8dfaa546148ebc08f2090d1cf4d61ac3e38ea
+    name: upsource
+    type: application
+    urls:
+    - https://github.com/visteras/jetbrains-helm/releases/download/v.0.1.0/upsource-0.1.0.tgz
+    version: 0.1.0
+  youtrack:
+  - apiVersion: v2
+    appVersion: 2019.1.51078
+    created: "2021-06-05T15:08:51.6259406+03:00"
+    description: A Helm chart for Kubernetes with YouTrack from JetBrains
+    digest: d8b6eeaf34808f8fa32b081b181199c3ba88167551755408f2c028af3caef318
+    name: youtrack
+    type: application
+    urls:
+    - https://github.com/visteras/jetbrains-helm/releases/download/v.0.1.0/youtrack-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-05T15:08:51.6209119+03:00"
